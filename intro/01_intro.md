@@ -4,5 +4,12 @@
 
 ![Redis Key-value data structures server](redis.png)
 
-### and using it with ruby ###
+### (with ruby) ###
 
+!SLIDE bullets incremental
+
+# What is redis? #
+
+* Key-value store
+
+* Data structures server
