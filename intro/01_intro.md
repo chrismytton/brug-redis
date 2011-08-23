@@ -1,15 +1,7 @@
 !SLIDE title center
 
-## A brief tour of ##
-
 ![Redis Key-value data structures server](redis.png)
 
-### (with ruby) ###
+### an open source, advanced key-value store ###
 
 !SLIDE bullets incremental
-
-# What is redis? #
-
-* Key-value store
-
-* Data structures server
