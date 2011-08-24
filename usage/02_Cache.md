@@ -64,4 +64,4 @@
 
 # redis-store
 
-    gem install redis-store
+### github.com/jodosha/redis-store
