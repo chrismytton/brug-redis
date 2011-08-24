@@ -1,12 +1,8 @@
 !SLIDE title center
 
-# Questions?
+# Any questions?
 
-<hr />
-
-## Chris Mytton
-
-### ![](twitter.png) @hecticjeff
+### brug-redis.heroku.com
 
 !SLIDE bullets small
 
