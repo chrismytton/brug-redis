@@ -3,6 +3,7 @@
   "sections": [
     {"section":"intro"},
     {"section":"background"},
-    {"section":"usage"}
+    {"section":"usage"},
+    {"section":"outro"}
   ]
 }

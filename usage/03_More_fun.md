@@ -66,19 +66,10 @@
 * Pub-sub
 * Realtime event tracking
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 
 # Other coolness
 
 * [redis-objects](https://github.com/nateware/redis-objects)
 * [object-hash mapping](https://github.com/soveran/ohm)
 * [degrade](https://github.com/jamesgolick/degrade)
-
-!SLIDE bullets small
-
-# Links
-
-* [github.com/ezmobius/redis-rb](https://github.com/ezmobius/redis-rb)
-* [github.com/jodosha/redis-store](https://github.com/jodosha/redis-store)
-* [github.com/datagraph/rack-throttle](https://github.com/datagraph/rack-throttle)
-* [github.com/jamesgolick/rollout](https://github.com/jamesgolick/rollout)
