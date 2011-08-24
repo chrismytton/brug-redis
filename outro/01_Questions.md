@@ -8,6 +8,7 @@
 
 # Links
 
+* [redis.io](http://redis.io/)
 * [github.com/ezmobius/redis-rb](https://github.com/ezmobius/redis-rb)
 * [github.com/jodosha/redis-store](https://github.com/jodosha/redis-store)
 * [github.com/datagraph/rack-throttle](https://github.com/datagraph/rack-throttle)
