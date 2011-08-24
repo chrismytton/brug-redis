@@ -2,6 +2,7 @@
   "name": "Ruby &hearts; redis",
   "sections": [
     {"section":"intro"},
-    {"section":"background"}
+    {"section":"background"},
+    {"section":"usage"}
   ]
 }
